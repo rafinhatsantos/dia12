@@ -1,8 +1,7 @@
-// next.config.ts (versão corrigida)
-import type { NextConfig } from 'next'
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Configurações básicas (remova a seção 'experimental' se não for necessária)
-}
+  /* config options here */
+};
 
-export default nextConfig
+export default nextConfig;
